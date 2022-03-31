@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weiluj
 - 👀 I’m interested in Healthcare and using evidence-based methodology to help disadvantaged children develop their potential
-- 👩🏻‍🎓 I’m currently learning Public Policy
+- 👩🏻‍🎓 I’m studying Public Policy at UChicago Harris
 - 📫 Send a message to me if you're interested to connect!
 
 <!---
