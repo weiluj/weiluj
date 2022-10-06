@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weiluj aka Mia
+- 👋 Hi, I’m @weiluj
 - 👀 I’m interested in Healthcare and using evidence-based methodology to help disadvantaged children develop their potential
 - 👩🏻‍🎓 I’m studying Public Policy at UChicago
 
