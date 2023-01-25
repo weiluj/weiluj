@@ -1,9 +1,9 @@
 ## Bio
   <p>
 <ul>
-    <li>👋Hi, I’m @weiluj</li>
-    <li>📈📊I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential</li>
-    <li>👩🏻‍🎓I’m studying Public Policy at The University of Chicago, with focus on development economics. Recently I am doing research on impacts of domestic violence on children's educational outcome, and women empowerment measures in Africa</li>
+    <li>👋 Hi, I’m @weiluj</li>
+    <li>📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential</li>
+    <li>👩🏻‍🎓 I’m studying Public Policy at The University of Chicago, with focus on development economics. Recently I am doing research on impacts of domestic violence on children's educational outcome, and women empowerment measures in Africa</li>
   </ul>
 
 ## Coding Skill
@@ -16,9 +16,9 @@
 ## Projects
   <p>
 <ul>
-    <li><a href = "https://github.com/weiluj/us-gender-pay-gap">🏳️‍🌈Analysis of US Gender Pay Gap: 1990-2020</a></li>
-    <li><a href = "https://github.com/weiluj/chicago-311-request-rodent-theft">❄️Chicago 311 Service Rodent Complain and Theft Case Mapping</a></li>
-    <li><a href = "https://github.com/weiluj/120-years-olympics">🏊🏻120 Years of Olympic Performance</a></li>
+    <li><a href = "https://github.com/weiluj/us-gender-pay-gap">🏳️‍🌈 Analysis of US Gender Pay Gap: 1990-2020</a></li>
+    <li><a href = "https://github.com/weiluj/chicago-311-request-rodent-theft">❄️ Chicago 311 Service Rodent Complain and Theft Case Mapping</a></li>
+    <li><a href = "https://github.com/weiluj/120-years-olympics">🏊🏻 120 Years of Olympic Performance</a></li>
   </ul>
   
 ## Contact
