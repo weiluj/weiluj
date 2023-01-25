@@ -16,10 +16,10 @@
 ## Projects
   <p>
 <ul>
-    <li><a href = "https://github.com/weiluj/us-gender-pay-gap">Analysis of US Gender Pay Gap: 1990-2020</a></li>
+    <li><a href = "https://github.com/weiluj/us-gender-pay-gap">🏳️‍🌈Analysis of US Gender Pay Gap: 1990-2020</a></li>
     <li><a href = "https://github.com/weiluj/chicago-311-request-rodent-theft">Chicago 311 Service Rodent Complain and Theft Case Mapping</a></li>
-    <li><a href = "https://github.com/weiluj/120-years-olympics">🤺120 Years of Olympic Performance</a></li>
-  </ul>
+    <li><a href = "https://github.com/weiluj/120-years-olympics">🏊🏻🏊🏄♀️120 Years of Olympic Performance</a></li>
+  </ul>🚣‍
   
 ## Contact
 <p>
