@@ -1,7 +1,15 @@
+## Bio
+<p>
 - 👋 Hi, I’m @weiluj
 - 👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential
 - 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research
 - 📮 Connect via weiluj@uchicago.edu or [LinkedIn](https://www.linkedin.com/in/mia-j/)
+
+## Coding
+<p>
+  <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
+  <img alt="Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src = "https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 
 <!---
 weiluj/weiluj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
