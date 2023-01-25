@@ -1,9 +1,9 @@
 ## Bio
 <p>
 <h> 👋 Hi, I’m @weiluj
-- 👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential
-- 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research
-- 📮 Connect via weiluj@uchicago.edu or [LinkedIn](https://www.linkedin.com/in/mia-j/)
+<h> 👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential
+<h> 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research
+<h> 📮 Connect via weiluj@uchicago.edu or [LinkedIn](https://www.linkedin.com/in/mia-j/)
 
 ## Coding
 <p>
