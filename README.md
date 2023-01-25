@@ -3,7 +3,8 @@
 <h> 👋 Hi, I’m @weiluj
 <p> 👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential
 <p> 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research
-<p> 📮 Connect via weiluj@uchicago.edu or [LinkedIn]: https://www.linkedin.com/in/mia-j/
+<p> 📮 Connect via weiluj@uchicago.edu or 
+  [LinkedIn](https://www.linkedin.com/in/mia-j/)
 
 ## Coding Skill
 <p>
