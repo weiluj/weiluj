@@ -1,10 +1,10 @@
 ## Bio
 <p>
 <body>&bull; 👋 Hi, I’m @weiluj</body>
-<div>
+<p>
 <body>&bull; 👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential</body>
-<div>
-<body>&bull; 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research</body>
+<p>
+<body>&bull; 👩🏻‍🎓 I’m studying Public Policy at The University of Chicago, with focus on development economics. I also do sociology research</body>
 
 ## Coding Skill
 <p>
