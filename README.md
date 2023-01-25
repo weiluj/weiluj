@@ -3,9 +3,9 @@
 <h> 👋 Hi, I’m @weiluj
 <p> 👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential
 <p> 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research
-<p> 📮 Connect via weiluj@uchicago.edu or [LinkedIn](https://www.linkedin.com/in/mia-j/)
+<p> 📮 Connect via weiluj@uchicago.edu or [LinkedIn]("https://www.linkedin.com/in/mia-j/")
 
-## Coding
+## Coding Skill
 <p>
   <img alt = "R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
   <img alt = "Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
