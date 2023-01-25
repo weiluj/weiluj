@@ -1,9 +1,9 @@
 ## Bio
   <p>
 <ul>
-    <li>👋 Hi, I’m @weiluj</li>
-    <li>📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential</li>
-    <li>👩🏻‍🎓 I’m studying Public Policy at The University of Chicago, with focus on development economics. Recently I am doing research on impacts of domestic violence on children's educational outcome, and women empowerment measures in Africa</li>
+    <li>👋Hi, I’m @weiluj</li>
+    <li>📈📊I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential</li>
+    <li>👩🏻‍🎓I’m studying Public Policy at The University of Chicago, with focus on development economics. Recently I am doing research on impacts of domestic violence on children's educational outcome, and women empowerment measures in Africa</li>
   </ul>
 
 ## Coding Skill
