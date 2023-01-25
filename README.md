@@ -1,10 +1,11 @@
 ## Bio
-  </p>
+  <p>
 <ul>
     <li>👋 Hi, I’m @weiluj</li>
     <li>👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential</li>
     <li>👩🏻‍🎓 I’m studying Public Policy at The University of Chicago, with focus on development economics. Recently I am doing research on impacts of domestic violence on children's educational outcome, and women empowerment measures in Africa</li>
   </ul>
+
 ## Coding Skill
 <p>
   <img alt = "R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
@@ -13,7 +14,7 @@
   <img alt = "Tableau" src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 ## Projects
-  </p>
+  <p>
 <ul>
     <li><a href = "https://github.com/weiluj/us-gender-pay-gap">Analysis of US Gender Pay Gap: 1990-2020</a></li>
     <li><a href = "https://github.com/weiluj/chicago-311-request-rodent-theft">Chicago 311 Service Rodent Complain and Theft Case Mapping</a></li>
