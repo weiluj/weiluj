@@ -2,7 +2,7 @@
 <p>
 <h3>&bull; CSS</h3> 👋 Hi, I’m @weiluj
 <h3>&bull; CSS</h3>👩🏻‍💻📈📊 I’m interested in Gender, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential
-<h3>&bull; 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research</h3>
+<tt>&bull; 👩🏻‍🎓 I’m studying Public Policyat UChicago, with focus on development economics. I also do sociology research</tt>
 ## Coding Skill
 <p>
   <img alt = "R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30" />
