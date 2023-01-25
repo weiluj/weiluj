@@ -12,7 +12,7 @@
   <img alt = "Tableau" src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
   ## Contact
-  <a href = "weiluj@uchicago.edu"><img src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge&logoWidth=30"></a>
+  <a href = "weiluj@uchicago.edu"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/mia-j/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!---
 weiluj/weiluj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
