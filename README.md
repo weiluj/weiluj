@@ -2,7 +2,7 @@
   <p>
 <ul>
     <li>👋 Hi, I’m @weiluj</li>
-    <li>📈 I’m interested in Early Childhood, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential</li>
+    <li>📈 I’m interested in Early Childhood, Healthcare and using evidence-based methodology together with gender lens to help disadvantaged children develop their potential. I also aim for promoting financial inclusion for women</li>
     <li>👩🏻‍🎓 I’m studying Public Policy at The University of Chicago, with a focus on development economics. Recently I am doing research on estimating impact of early screening on educational outcomes of students with hearing loss, and women empowerment measures in Africa</li>
   </ul>
 
