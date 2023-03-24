@@ -20,7 +20,7 @@
     <li><a href = "https://github.com/weiluj/chicago-311-request-rodent-theft">❄️ Chicago 311 Service Rodent Complain and Theft Case Mapping</a></li>
     <li><a href = "https://github.com/weiluj/120-years-olympics">🏊🏻 120 Years of Olympic Performance</a></li>
   <li><a href = "https://github.com/weiluj/us-flight-delay-2015">✈️ Domestic Flight Delay in the US: 2015</a></li>
-  <li>**In Progress**: Child Marriage and Intimate Partner Violence in Malawi</li>
+  <li><a href = "https://github.com/weiluj/intimate-partner-violence-malawi">⚖️ Impact of Power Imbalance in Education and Employment on Intimate Partner Violence in Malawi</li>
   </ul>
   
 ## Contact
