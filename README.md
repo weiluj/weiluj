@@ -17,6 +17,7 @@
   <p>
 <ul>
     <li><a href = "https://github.com/weiluj/us-gender-pay-gap">🏳️‍🌈 Analysis of US Gender Pay Gap: 2000-2020</a></li>
+    <li><a href = "https://github.com/weiluj/us-gender-pay-gap">🍜 Food Markets and Socioeconomic Inequality in Chicago</a></li>
     <li><a href = "https://github.com/weiluj/intimate-partner-violence-malawi">⚖️ Impact of Power Imbalance in Education and Employment on Intimate Partner Violence in Malawi</li>
     <li><a href = "https://github.com/weiluj/chicago-311-request-rodent-theft">❄️ Chicago 311 Service Rodent Complain and Theft Case Mapping</a></li>
     <li><a href = "https://github.com/weiluj/120-years-olympics">🏊🏻 120 Years of Olympic Performance</a></li>
